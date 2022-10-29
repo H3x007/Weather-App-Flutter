@@ -1,10 +1,14 @@
-# weather_app
+# Weather App with Flutter 
 
-Weather App project
+![Google Pixel 4 XL Presentation](https://user-images.githubusercontent.com/41634372/198815602-d22de08b-50ce-44c6-9798-f0b5f111299a.png)
+
+
+- Bloc State Management
+- API [Weather API](https://www.weatherapi.com/)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Our weather app will pull real data from an API and demonstrate how to apply a layered architecture to separate presentational logic from business logic.
 
 A few resources to get you started if this is your first Flutter project:
 
